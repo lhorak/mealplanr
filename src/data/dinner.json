@@ -1,0 +1,590 @@
+{
+  "carbohydrates": [
+    {
+      "name": "Brambory",
+      "quantity": 228,
+      "units": "grams"
+    },
+    {
+      "name": "Batáty",
+      "quantity": 244,
+      "units": "grams"
+    },
+    {
+      "name": "Maniok",
+      "quantity": 131,
+      "units": "grams"
+    },
+    {
+      "name": "Těstoviny",
+      "quantity": 61,
+      "units": "grams"
+    },
+    {
+      "name": "Rýže parboiled/basmati",
+      "quantity": 61,
+      "units": "grams"
+    },
+    {
+      "name": "Kuskus",
+      "quantity": 61,
+      "units": "grams"
+    },
+    {
+      "name": "Bulgur",
+      "quantity": 58,
+      "units": "grams"
+    },
+    {
+      "name": "Pohanka",
+      "quantity": 60,
+      "units": "grams"
+    },
+    {
+      "name": "Jáhly",
+      "quantity": 58,
+      "units": "grams"
+    },
+    {
+      "name": "Quinoa",
+      "quantity": 61,
+      "units": "grams"
+    },
+    {
+      "name": "Ječné kroupy",
+      "quantity": 59,
+      "units": "grams"
+    },
+    {
+      "name": "Vločky",
+      "quantity": 58,
+      "units": "grams"
+    },
+    {
+      "name": "Chléb",
+      "quantity": 86,
+      "units": "grams"
+    },
+    {
+      "name": "Bageta celozrnná",
+      "quantity": 77,
+      "units": "grams"
+    },
+    {
+      "name": "Fazole",
+      "quantity": 61,
+      "units": "grams"
+    },
+    {
+      "name": "Čočka",
+      "quantity": 61,
+      "units": "grams"
+    },
+    {
+      "name": "Hrách",
+      "quantity": 59,
+      "units": "grams"
+    },
+    {
+      "name": "Knackebrot",
+      "quantity": 59,
+      "units": "grams"
+    },
+    {
+      "name": "Fazole vařené",
+      "quantity": 157,
+      "units": "grams"
+    },
+    {
+      "name": "Fazole v tomatě",
+      "quantity": 269,
+      "units": "grams"
+    },
+    {
+      "name": "Vařené těstoviny",
+      "quantity": 158,
+      "units": "grams"
+    },
+    {
+      "name": "Vařená rýže",
+      "quantity": 162,
+      "units": "grams"
+    },
+    {
+      "name": "Celozrnná tortila",
+      "quantity": 72,
+      "units": "grams"
+    }
+  ],
+  "proteins": [
+    {
+      "name": "Kuřecí prsa",
+      "quantity": 122,
+      "units": "grams"
+    },
+    {
+      "name": "Krůtí prsa",
+      "quantity": 113,
+      "units": "grams"
+    },
+    {
+      "name": "Králík",
+      "quantity": 126,
+      "units": "grams"
+    },
+    {
+      "name": "Kachní prsa bez kůže",
+      "quantity": 81,
+      "units": "grams"
+    },
+    {
+      "name": "Kuřecí játra",
+      "quantity": 104,
+      "units": "grams"
+    },
+    {
+      "name": "Hovězí zadní",
+      "quantity": 91,
+      "units": "grams"
+    },
+    {
+      "name": "Hovězí svíčková",
+      "quantity": 106,
+      "units": "grams"
+    },
+    {
+      "name": "Hovězí přední",
+      "quantity": 81,
+      "units": "grams"
+    },
+    {
+      "name": "Hovězí mleté",
+      "quantity": 60,
+      "units": "grams"
+    },
+    {
+      "name": "Vepřová panenka",
+      "quantity": 98,
+      "units": "grams"
+    },
+    {
+      "name": "Vepřové průměr",
+      "quantity": 56,
+      "units": "grams"
+    },
+    {
+      "name": "Vepřová krkovice",
+      "quantity": 77,
+      "units": "grams"
+    },
+    {
+      "name": "Vepřová kotleta",
+      "quantity": 56,
+      "units": "grams"
+    },
+    {
+      "name": "Losos",
+      "quantity": 93,
+      "units": "grams"
+    },
+    {
+      "name": "Pstruh lososovitý",
+      "quantity": 137,
+      "units": "grams"
+    },
+    {
+      "name": "Pstruh duhový",
+      "quantity": 97,
+      "units": "grams"
+    },
+    {
+      "name": "Okoun",
+      "quantity": 162,
+      "units": "grams"
+    },
+    {
+      "name": "Štika",
+      "quantity": 152,
+      "units": "grams"
+    },
+    {
+      "name": "Pražma",
+      "quantity": 104,
+      "units": "grams"
+    },
+    {
+      "name": "Tuňák filé",
+      "quantity": 93,
+      "units": "grams"
+    },
+    {
+      "name": "Kapr s kůží",
+      "quantity": 89,
+      "units": "grams"
+    },
+    {
+      "name": "Tuňák ve vl. Šťávě",
+      "quantity": 102,
+      "units": "grams"
+    },
+    {
+      "name": "Uzené šproty slité",
+      "quantity": 70,
+      "units": "grams"
+    },
+    {
+      "name": "Sardinky ve vl. Šťávě",
+      "quantity": 116,
+      "units": "grams"
+    },
+    {
+      "name": "Uzený losos",
+      "quantity": 69,
+      "units": "grams"
+    },
+    {
+      "name": "Krevety",
+      "quantity": 140,
+      "units": "grams"
+    },
+    {
+      "name": "Parmazán",
+      "quantity": 34,
+      "units": "grams"
+    },
+    {
+      "name": "Olomoucké tvarůžky",
+      "quantity": 107,
+      "units": "grams"
+    },
+    {
+      "name": "Cream cheese light K",
+      "quantity": 208,
+      "units": "grams"
+    },
+    {
+      "name": "Cream cheese jogurt K",
+      "quantity": 80,
+      "units": "grams"
+    },
+    {
+      "name": "Kozí sýr čerstvý",
+      "quantity": 49,
+      "units": "grams"
+    },
+    {
+      "name": "Cottage",
+      "quantity": 126,
+      "units": "grams"
+    },
+    {
+      "name": "Ricotta",
+      "quantity": 80,
+      "units": "grams"
+    },
+    {
+      "name": "Tvaroh odtučněný",
+      "quantity": 200,
+      "units": "grams"
+    },
+    {
+      "name": "Tvaroh polotučný",
+      "quantity": 94,
+      "units": "grams"
+    },
+    {
+      "name": "Mozzarella",
+      "quantity": 48,
+      "units": "grams"
+    },
+    {
+      "name": "Mozzarella light",
+      "quantity": 81,
+      "units": "grams"
+    },
+    {
+      "name": "Hermelín figura",
+      "quantity": 56,
+      "units": "grams"
+    },
+    {
+      "name": "Hermelín",
+      "quantity": 43,
+      "units": "grams"
+    },
+    {
+      "name": "Lučina salátová",
+      "quantity": 66,
+      "units": "grams"
+    },
+    {
+      "name": "Sýr 30 %",
+      "quantity": 51,
+      "units": "grams"
+    },
+    {
+      "name": "Vejce",
+      "quantity": 89,
+      "units": "grams"
+    },
+    {
+      "name": "Bílek",
+      "quantity": 277,
+      "units": "grams"
+    },
+    {
+      "name": "Šmakoun Mexico",
+      "quantity": 127,
+      "units": "grams"
+    },
+    {
+      "name": "Šmakoun",
+      "quantity": 199,
+      "units": "grams"
+    },
+    {
+      "name": "Šunka nejvyšší jakosti",
+      "quantity": 120,
+      "units": "grams"
+    },
+    {
+      "name": "Protein",
+      "quantity": 33,
+      "units": "grams"
+    },
+    {
+      "name": "Sójové maso granule",
+      "quantity": 42,
+      "units": "grams"
+    },
+    {
+      "name": "Fazole vařené",
+      "quantity": 100,
+      "units": "grams"
+    },
+    {
+      "name": "Luštěniny",
+      "quantity": 39,
+      "units": "grams"
+    },
+    {
+      "name": "Hummus 20%",
+      "quantity": 51,
+      "units": "grams"
+    },
+    {
+      "name": "Hummus I love hummus (10 %)",
+      "quantity": 78,
+      "units": "grams"
+    },
+    {
+      "name": "Tofu",
+      "quantity": 93,
+      "units": "grams"
+    },
+    {
+      "name": "Robi maso",
+      "quantity": 105,
+      "units": "grams"
+    },
+    {
+      "name": "Tempeh",
+      "quantity": 80,
+      "units": "grams"
+    },
+    {
+      "name": "Sójový jogurt přírodní Alpro",
+      "quantity": 242,
+      "units": "grams"
+    },
+    {
+      "name": "Šmakoun meruňka",
+      "quantity": 141,
+      "units": "grams"
+    }
+  ],
+  "fats": [
+    {
+      "name": "Avokádo",
+      "quantity": 35,
+      "unit": "grams"
+    },
+    {
+      "name": "Mák",
+      "quantity": 16,
+      "unit": "grams"
+    },
+    {
+      "name": "Lněná semínka",
+      "quantity": 16,
+      "unit": "grams"
+    },
+    {
+      "name": "Slunečnicová semínka",
+      "quantity": 14,
+      "unit": "grams"
+    },
+    {
+      "name": "Kokos",
+      "quantity": 12,
+      "unit": "grams"
+    },
+    {
+      "name": "Olej",
+      "quantity": 10,
+      "unit": "grams"
+    },
+    {
+      "name": "Máslo",
+      "quantity": 11,
+      "unit": "grams"
+    },
+    {
+      "name": "Majonéza",
+      "quantity": 13,
+      "unit": "grams"
+    },
+    {
+      "name": "Rama 70%",
+      "quantity": 14,
+      "unit": "grams"
+    },
+    {
+      "name": "Pesto",
+      "quantity": 17,
+      "unit": "grams"
+    },
+    {
+      "name": "Tatarka",
+      "quantity": 21,
+      "unit": "grams"
+    },
+    {
+      "name": "Lučina linie",
+      "quantity": 55,
+      "unit": "grams"
+    },
+    {
+      "name": "Lučina",
+      "quantity": 30,
+      "unit": "grams"
+    },
+    {
+      "name": "Mozzarella",
+      "quantity": 31,
+      "unit": "grams"
+    },
+    {
+      "name": "Mozzarella light",
+      "quantity": 52,
+      "unit": "grams"
+    },
+    {
+      "name": "Hermelín figura",
+      "quantity": 36,
+      "unit": "grams"
+    },
+    {
+      "name": "Hermelín",
+      "quantity": 28,
+      "unit": "grams"
+    },
+    {
+      "name": "Cottage",
+      "quantity": 81,
+      "unit": "grams"
+    },
+    {
+      "name": "Ricotta",
+      "quantity": 51,
+      "unit": "grams"
+    },
+    {
+      "name": "45% sýr",
+      "quantity": 25,
+      "unit": "grams"
+    },
+    {
+      "name": "Niva 55%",
+      "quantity": 23,
+      "unit": "grams"
+    },
+    {
+      "name": "Zelené olivy",
+      "quantity": 62,
+      "unit": "grams"
+    },
+    {
+      "name": "Černé olivy",
+      "quantity": 25,
+      "unit": "grams"
+    },
+    {
+      "name": "Hummus 20%",
+      "quantity": 33,
+      "unit": "grams"
+    },
+    {
+      "name": "Hummus I love hummus (10 %)",
+      "quantity": 50,
+      "unit": "grams"
+    },
+    {
+      "name": "Patigu Gourmet",
+      "quantity": 42,
+      "unit": "grams"
+    },
+    {
+      "name": "Patigfu hlíva",
+      "quantity": 36,
+      "unit": "grams"
+    },
+    {
+      "name": "Patifu dýně",
+      "quantity": 53,
+      "unit": "grams"
+    },
+    {
+      "name": "Pomazánka z lilku",
+      "quantity": 50,
+      "unit": "grams"
+    },
+    {
+      "name": "Vejce",
+      "quantity": 57,
+      "unit": "grams"
+    },
+    {
+      "name": "Kokosové mléko",
+      "quantity": 51,
+      "unit": "grams"
+    },
+    {
+      "name": "Ovesná smetana",
+      "quantity": 60,
+      "unit": "grams"
+    },
+    {
+      "name": "Alpro smetana",
+      "quantity": 49,
+      "unit": "grams"
+    }
+  ],
+  "sides": [
+    {
+      "name": "Zelenina průměr",
+      "quantity": 200,
+      "unit": "grams"
+    },
+    {
+      "name": "Zelenina kořenová",
+      "quantity": 150,
+      "unit": "grams"
+    },
+    {
+      "name": "Zelenina sterilovaná",
+      "quantity": 70,
+      "unit": "grams"
+    }
+  ]
+}
